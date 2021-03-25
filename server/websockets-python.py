@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-
-# WS server that sends messages at random intervals
-
 import asyncio
 import datetime
 import random
